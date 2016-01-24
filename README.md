@@ -42,4 +42,4 @@ Disclaimer & licence
 
 Credits
 -------
-* Alberto Solino and CORE Security for the amazing and awesome [impacket] framework (https://github.com/CoreSecurity/impacket/)
+* Alberto Solino and CORE Security for the amazing and awesome [impacket framework](https://github.com/CoreSecurity/impacket/)
