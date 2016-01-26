@@ -34,6 +34,7 @@ Roadmap
 
 Disclaimer & licence 
 ---------------------
+* This software is provided under the original [impacket's licence](https://github.com/CoreSecurity/impacket/blob/master/LICENSE): a copy of it is also included in that repository.
 * Do not use it for illegal purposes
 * I don't own anything on the impacket nor CORE Security brand and am not affiliated with this project and organization 
 * Last but not least, antivirus softwares might report some binaries as hacktools or even malwares: this is a known and common issue. If you don't trust this compilation: 
