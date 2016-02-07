@@ -27,7 +27,8 @@ Older versions
 
 Roadmap
 -------
-* Figure out why rdp_check, mssqlclient and mssqlinstance don't compile (apparently related to pyOpenSSL and pyinstaller)
+* Figure out why `rdp_check`, `mssqlclient` and `mssqlinstance` don't compile (apparently related to pyOpenSSL and pyinstaller)
+* Report various bugs around utf-8 handling
 
 
 Disclaimer & licence 
