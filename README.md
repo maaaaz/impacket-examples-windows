@@ -15,7 +15,7 @@ Features
 
 Usage
 -----
-1. Download the [whole archive](https://github.com/maaaaz/impacket-examples-windows/releases/download/v0.9.14/impacket-examples-windows-v0.9.14.zip) or `git clone` the repo
+1. `git clone` the repo or download the [whole archive](https://github.com/maaaaz/impacket-examples-windows/archive/master.zip)
 2. Extract it and run whatever tool you want
 3. Profit
 
@@ -27,9 +27,7 @@ Older versions
 
 Roadmap
 -------
-* Find a cool, open-source and free of charge .exe icon
-* Figure out why mssqlclient and mssqlinstance don't compile
-* Compile examples based on the pcapy library
+* Figure out why rdp_check, mssqlclient and mssqlinstance don't compile (apparently related to pyOpenSSL and pyinstaller)
 
 
 Disclaimer & licence 
