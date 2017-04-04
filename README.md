@@ -9,7 +9,7 @@ In one sentence, all of the useful tools that are missing from the Sysinternals 
 
 Features
 --------
-* Latest `v0.9.14` version
+* Latest `v0.9.16-dev` version
 * Compiled for `x86` so should work on `x86` and `x64` platforms (tested on Win7 and 10)
  
 
@@ -23,12 +23,6 @@ Usage
 Older versions
 --------------
 * Browse the [release section](https://github.com/maaaaz/impacket-examples-windows/releases) to find some old versions
-
-
-Roadmap
--------
-* Figure out why `rdp_check`, `mssqlclient` and `mssqlinstance` don't compile (apparently related to pyOpenSSL and pyinstaller)
-* Report various bugs around utf-8 handling
 
 
 Disclaimer & licence 
