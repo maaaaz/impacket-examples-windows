@@ -9,7 +9,7 @@ In one sentence, all of the useful tools that are missing from the Sysinternals 
 
 Features
 --------
-* Latest `v0.9.16-dev` version
+* Latest `v0.9.17` version
 * Compiled for `x86` so should work on `x86` and `x64` platforms (tested on Win7 and 10)
  
 
